@@ -1,0 +1,23 @@
+**/**__pycache__
+
+**/.DS_Store
+
+# Data files
+**/*.csv
+**/*.xlsx
+**/*.tsv
+**/*.rds
+**/*.png
+**/*.xml
+**/*.pkl
+**/*.pkl.bz2
+**/*.gz
+**/*.rds
+**/**.joblib
+
+.env
+
+**/*.ipynb_checkpoints
+
+sklearn_json_transformer/features.pkl
+sklearn_xgboost_wrapper/xgboost_model.bin
